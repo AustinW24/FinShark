@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\ASPNET\\Finshark\\FinShark.csproj": {}
+    "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\FinShark\\FinShark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\ASPNET\\Finshark\\FinShark.csproj": {
+    "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\FinShark\\FinShark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\ASPNET\\Finshark\\FinShark.csproj",
+        "projectUniqueName": "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\FinShark\\FinShark.csproj",
         "projectName": "FinShark",
-        "projectPath": "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\ASPNET\\Finshark\\FinShark.csproj",
+        "projectPath": "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\FinShark\\FinShark.csproj",
         "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\ASPNET\\Finshark\\obj\\",
+        "outputPath": "C:\\Users\\austi\\Documents\\Dev\\Misc Projects\\FinShark\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\austi\\AppData\\Roaming\\NuGet\\NuGet.Config",
