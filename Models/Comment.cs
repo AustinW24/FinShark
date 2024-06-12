@@ -3,8 +3,8 @@
 public class Comment
 {
 	public Comment()
-	{
-	}
+	{ }
+
 	public int Id { get; set; }
 
 	public string Title { get; set; } = string.Empty;
